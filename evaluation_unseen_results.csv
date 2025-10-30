@@ -1,0 +1,6 @@
+Activity,Samples,Sensitivity,Specificity,Overall Accuracy
+jumping,2396,0.684,0.995,0.882
+sitting,1979,0.995,0.975,0.882
+standing,1461,0.821,0.997,0.882
+still,1213,0.998,1.0,0.882
+walking,2152,0.973,0.88,0.882
