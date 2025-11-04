@@ -32,7 +32,6 @@ trained_hmm_discrete.pkl
 trained_scaler.pkl
 trained_supervised_hmm.pkl
 
-
 ---
 
 ## Implementation Overview
