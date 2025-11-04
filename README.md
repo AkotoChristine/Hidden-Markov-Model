@@ -91,7 +91,7 @@ The confusion matrix and F1-scores demonstrate that the model effectively captur
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. **Clone this repository**
    ```bash
