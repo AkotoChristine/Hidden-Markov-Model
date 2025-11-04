@@ -102,3 +102,7 @@ The confusion matrix and F1-scores demonstrate that the model effectively captur
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+3. **Run the data extraction and merging scripts**
+   ```bash
+   python extraction.py
+   python merge_acc_gyr.py
