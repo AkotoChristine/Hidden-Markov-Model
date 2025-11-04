@@ -7,30 +7,28 @@ The workflow includes **data preprocessing**, **feature extraction**, **model tr
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
-Data/
-│
-├── extracted_datasets/
-│ ├── extracted_train_features.csv
-│ └── extracted_test_features.csv
-│
-├── merged_datasets/
-│ ├── combined_train_data.csv
-│ └── combined_test_data.csv
-│
-├── Test_unprocessed_data/
-└── Train_unprocessed_data/
+**Data/**
+- **extracted_datasets/**
+  - extracted_train_features.csv  
+  - extracted_test_features.csv  
+- **merged_datasets/**
+  - combined_train_data.csv  
+  - combined_test_data.csv  
+- **Test_unprocessed_data/**
+- **Train_unprocessed_data/**
 
-evaluation_unseen_results.csv
-extraction.py
-Hidden Markov Model(4).pdf
-HMM_Implementation.py
-merge_acc_gyr.py
-README.md
-trained_hmm_discrete.pkl
-trained_scaler.pkl
-trained_supervised_hmm.pkl
+**evaluation_unseen_results.csv**  
+**extraction.py**  
+**Hidden Markov Model(4).pdf**  
+**HMM_Implementation.py**  
+**merge_acc_gyr.py**  
+**README.md**  
+**trained_hmm_discrete.pkl**  
+**trained_scaler.pkl**  
+**trained_supervised_hmm.pkl**
+
 
 ---
 
