@@ -109,3 +109,5 @@ The confusion matrix and F1-scores demonstrate that the model effectively captur
 4. **Train and evaluate the model**
    ```bash
    python HMM_Implementation.py
+5. View Results
+    Console output will display accuracy, F1-score, and confusion matrix.
