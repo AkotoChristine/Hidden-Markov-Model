@@ -1,6 +1,6 @@
 # Human Activity Recognition Using Hidden Markov Models (HMM)
 
-This project implements a **Human Activity Recognition (HAR)** system using the **Hidden Markov Model (HMM)** algorithm.  
+This project implements a **Human Activity Recognition** system using the **Hidden Markov Model (HMM)** algorithm.  
 It classifies human activities based on time-series sensor data (accelerometer and gyroscope) by learning the statistical dependencies between temporal observations.
 
 The workflow includes **data preprocessing**, **feature extraction**, **model training**, and **performance evaluation** on test datasets.
