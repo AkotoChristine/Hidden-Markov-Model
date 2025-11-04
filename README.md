@@ -7,7 +7,7 @@ The workflow includes **data preprocessing**, **feature extraction**, **model tr
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 **Data/**
 - **extracted_datasets/**
