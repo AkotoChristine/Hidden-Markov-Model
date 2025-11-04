@@ -99,4 +99,6 @@ The confusion matrix and F1-scores demonstrate that the model effectively captur
    cd HIDDEN-MARKOV-MODEL
 
 
-
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
