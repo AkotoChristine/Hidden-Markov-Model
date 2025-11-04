@@ -95,7 +95,7 @@ The confusion matrix and F1-scores demonstrate that the model effectively captur
 
 1. **Clone this repository**
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/AkotoChristine/Hidden-Markov-Model.git
    cd Human_Activity_Recognition_HMM
 
 
